@@ -48,6 +48,8 @@ git remote add origin https://github.com/MeiCloudie/demo_git.git
 
 - Remote repository là một phiên bản Git repository được lưu trữ trên mạng hoặc một máy chủ khác.
 
+- Đường dẫn "https..." là đường dẫn đến repository hiện tại của bạn.
+
 ## Thêm và Kiểm tra Trạng thái Thay Đổi
 
 ```sh
