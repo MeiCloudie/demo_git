@@ -127,3 +127,5 @@ git checkout -b nhanh1
 ```
 
 - Lệnh này tạo một nhánh mới có tên "nhanh1" và chuyển đổi sang nhánh này ngay lập tức (câu lệnh kết hợp 2 thao tác trên).
+
+> Còn UPDATE thêm nhé!
